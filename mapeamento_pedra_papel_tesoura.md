@@ -24,3 +24,14 @@
 | Pedra | 0 | -1 | 1 |
 | Papel | 1 | 0 | -1 |
 | Tesoura | -1 | 1 | 0 |
+
+
+### Tabela de regras atualizada:
+
+| Escolha | Pedra |	Papel |	Tesoura |	Lagarto | Spock |
+|---|---|---|---|---|---|
+| Pedra | 0 | -1 |1 | 1 | 1 |
+| Papel | 1 | 0 | -1 | -1 |	1 |
+| Tesoura |-1 |1 | 0 | 1 |-1 |
+| Lagarto |	-1 | 1 | -1 | 0 | 1 |
+| Spock | 1 | -1 | 1 | -1 | 0 |
